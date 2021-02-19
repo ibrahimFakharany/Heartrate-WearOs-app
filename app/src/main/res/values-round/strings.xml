@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleApp2</string>
+    <string name="hello_world">Hello Round World!</string>
+    <string name="alertText"></string>
+</resources>

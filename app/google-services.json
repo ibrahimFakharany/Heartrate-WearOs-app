@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "910986532085",
+    "project_id": "heartrate2-c6775",
+    "storage_bucket": "heartrate2-c6775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910986532085:android:d8e87fe783f2468fe121bc",
+        "android_client_info": {
+          "package_name": "com.example.sampleapp22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910986532085-rm1a5qqpuvolra42akir2im5cl5afcg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sampleapp22",
+            "certificate_hash": "12fa7152350b57927e7c7261ade070eaa0ad16d6"
+          }
+        },
+        {
+          "client_id": "910986532085-ktmevul05tait00a7qviuug9de2fef2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZVoxvqpVLNfy-RAlZhXel-GzwhXHu7iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910986532085-ktmevul05tait00a7qviuug9de2fef2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
